@@ -1,0 +1,5 @@
+Colocar estos archivos en C; 
+Iniciar a correr el programa con la palabra start. (con todo y punto)
+Buscar personajes con mayuscula al principio y minusculas al final: Goku y oprimir el boton (NO enter).
+
+Lo personajes que se pueden buscar, pueden ser visibles al abrir el archivo dragonball.pl y buscar en el predicado "iman"
